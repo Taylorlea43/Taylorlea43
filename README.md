@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Taylor Lea, a senior Computer Science major at Quinnipiac University.
 
 <!--
 **Taylorlea43/Taylorlea43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
